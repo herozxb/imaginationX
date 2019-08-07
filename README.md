@@ -1,2 +1,2 @@
 # imaginationX
-make the robot havs it own imagination
+make the robot has it own imagination
